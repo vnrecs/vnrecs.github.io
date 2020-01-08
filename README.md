@@ -1,3 +1,6 @@
+# Original copy: github.com/WitheredGryphon/witheredgryphon.github.io
+# Minus PSDs
+
 # /r/visualnovel's 2018 competition submission
 # By /u/TheRealZethin
 
